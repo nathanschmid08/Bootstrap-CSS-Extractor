@@ -1,4 +1,7 @@
-# Bootstrap-CSS-Extractor
+<h1 align="center">
+  <img src="md/font.png" alt="Boostrap CSS Extractor"> 
+</h1>
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Chrome%20Extension-2bbc8a?style=for-the-badge&logo=googlechrome)](https://developer.chrome.com/docs/extensions/)
