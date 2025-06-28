@@ -10,6 +10,8 @@
 
 > A Chrome Extension that extracts the loaded Bootstrap CSS from any website using a CDN link — with full pseudo-class support and clean output.
 
+<img align="right" src="icon.png" width="275">
+
 ## 🧠 What It Does
 
 **Bootstrap CSS Extractor** is a lightweight Chrome extension that:
